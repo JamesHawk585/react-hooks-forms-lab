@@ -31,6 +31,7 @@ that only items with names that match the text are included.
 
 [] Determine where you need to add state for this feature. What components need
   to know about the search text?
+  - ShoppingList.js, 
 
 [] Once you've determined which component should hold the state for this feature,
   set up your initial state, and connect that state to the input field.
